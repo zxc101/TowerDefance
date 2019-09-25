@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02e93456c3edc8e4eb290fd02f37569e, type: 3}
+  m_Name: Meleer
+  m_EditorClassIdentifier: 
+  name: 1
+  prefab: {fileID: 5946554787420785094, guid: 90c3f62df1c3061489e6d43b5ea71e58, type: 3}
+  animController: {fileID: 9100000, guid: 8c4ea4d91dd736945b43dc7c91f5ad98, type: 2}
+  HP: 100
+  speed: 3
+  power: 10
+  procentsDamage:
+  - color: 1
+    procent: 0.4
+  - color: 2
+    procent: 0.4
+  - color: 3
+    procent: 0.4
+  - color: 4
+    procent: 0.4
+  - color: 5
+    procent: 0.4
+  - color: 6
+    procent: 0.4
+  - color: 7
+    procent: 0.4
+  - color: 8
+    procent: 0.4

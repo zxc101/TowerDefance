@@ -1,0 +1,950 @@
+fileFormatVersion: 2
+guid: cf6e3de3d71536f449050ea453719fbc
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PurpleFire_1
+    21300002: TurquoiseFire_1
+    21300004: TurquoiseFire_2
+    21300006: TurquoiseFire_3
+    21300008: PurpleFire_2
+    21300010: PurpleFire_3
+    21300012: PurpleFire_4
+    21300014: PurpleFire_5
+    21300016: TurquoiseFire_4
+    21300018: TurquoiseFire_5
+    21300020: LilacFire_1
+    21300022: OrangeFire_1
+    21300024: LilacFire_2
+    21300026: LilacFire_3
+    21300028: LilacFire_4
+    21300030: LilacFire_5
+    21300032: OrangeFire_2
+    21300034: OrangeFire_3
+    21300036: OrangeFire_4
+    21300038: OrangeFire_5
+    21300040: GreenFire_1
+    21300042: GreenFire_2
+    21300044: GreenFire_3
+    21300046: GreenFire_4
+    21300048: GreenFire_5
+    21300050: BlueFire_1
+    21300052: BlueFire_2
+    21300054: BlueFire_3
+    21300056: BlueFire_4
+    21300058: BlueFire_5
+    21300060: RedFire_1
+    21300062: RedFire_2
+    21300064: RedFire_3
+    21300066: RedFire_4
+    21300068: RedFire_5
+    21300070: YellowFire_1
+    21300072: YellowFire_2
+    21300074: YellowFire_3
+    21300076: YellowFire_4
+    21300078: YellowFire_5
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PurpleFire_1
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 552
+        width: 72
+        height: 81
+      alignment: 9
+      pivot: {x: 0.87, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0ad2747661d94429e8d8b11f4ff6da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurquoiseFire_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 538
+        width: 68
+        height: 81
+      alignment: 9
+      pivot: {x: 0.87, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d525be997a4a014aa8b9daa25721802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurquoiseFire_2
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 538
+        width: 69
+        height: 82
+      alignment: 9
+      pivot: {x: 0.87, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418daabfb5eea1442a68b486bf217c31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurquoiseFire_3
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 530
+        width: 84
+        height: 107
+      alignment: 9
+      pivot: {x: 0.87, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cab063e7a6c9d43a1c8326e4b074a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleFire_2
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 552
+        width: 69
+        height: 81
+      alignment: 9
+      pivot: {x: 0.87, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b66fa3bd205f5c4dbf0db46b5887c15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleFire_3
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 543
+        width: 85
+        height: 107
+      alignment: 9
+      pivot: {x: 0.87, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db95cc2710900354e87d05645a2f0fbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleFire_4
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 552
+        width: 105
+        height: 85
+      alignment: 9
+      pivot: {x: 0.91, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b48678e9cfb1b74cbf0f9047f4ab061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleFire_5
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 552
+        width: 60
+        height: 73
+      alignment: 9
+      pivot: {x: 0.91, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e03ce7d0d6c0545998e733e68eb849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurquoiseFire_4
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 538
+        width: 105
+        height: 85
+      alignment: 9
+      pivot: {x: 0.91, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb86931913a9a64ea8dee1ea5e39443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurquoiseFire_5
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 538
+        width: 61
+        height: 74
+      alignment: 9
+      pivot: {x: 0.91, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3877553901a024fbfccdb4eca822ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilacFire_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 401
+        width: 69
+        height: 83
+      alignment: 9
+      pivot: {x: 0.87, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab1c36354341fb49b5fe24bc3fed237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeFire_1
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 392
+        width: 69
+        height: 84
+      alignment: 9
+      pivot: {x: 0.87, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9126dcf4fe856904b964e7c8db8cccab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilacFire_2
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 401
+        width: 69
+        height: 81
+      alignment: 9
+      pivot: {x: 0.87, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2def914825a7447b44c5e5e7a9aed9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilacFire_3
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 393
+        width: 85
+        height: 107
+      alignment: 9
+      pivot: {x: 0.87, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9fe420df930124db5df856227003dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilacFire_4
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 401
+        width: 108
+        height: 87
+      alignment: 9
+      pivot: {x: 0.91, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a91942f563facc408c4448c5de39ee0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilacFire_5
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 401
+        width: 60
+        height: 75
+      alignment: 9
+      pivot: {x: 0.91, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c182a58f86e04db488e7d83d2e49a313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeFire_2
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 394
+        width: 70
+        height: 80
+      alignment: 9
+      pivot: {x: 0.87, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238830171bfd6ab459c97426374c0a28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeFire_3
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 384
+        width: 85
+        height: 108
+      alignment: 9
+      pivot: {x: 0.87, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7483f1e5ef5db4c967ef6619d3f6ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeFire_4
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 394
+        width: 104
+        height: 85
+      alignment: 9
+      pivot: {x: 0.91, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3fa6d61b9888442976d02776a11fea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeFire_5
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 394
+        width: 60
+        height: 74
+      alignment: 9
+      pivot: {x: 0.91, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91236dce9a531c444bdcf8f697330cea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenFire_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 262
+        width: 69
+        height: 81
+      alignment: 9
+      pivot: {x: 0.87, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fbb1577d344e8448071ed60360049e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenFire_2
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 262
+        width: 70
+        height: 81
+      alignment: 9
+      pivot: {x: 0.87, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d93f92346a28248a4cddd13cd92d6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenFire_3
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 253
+        width: 86
+        height: 108
+      alignment: 9
+      pivot: {x: 0.87, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6523a200e81c80b4ea70ea877b1b4054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenFire_4
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 260
+        width: 103
+        height: 86
+      alignment: 9
+      pivot: {x: 0.91, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48802bf59b645fc4d8c98d4f594b11b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenFire_5
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 264
+        width: 61
+        height: 74
+      alignment: 9
+      pivot: {x: 0.91, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41b43428904362439ce59fbfbed9399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFire_1
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 242
+        width: 69
+        height: 82
+      alignment: 9
+      pivot: {x: 0.87, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ce1f4754b4f4245bbff20965e78a00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFire_2
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 242
+        width: 68
+        height: 81
+      alignment: 9
+      pivot: {x: 0.87, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff79ca41800f5946a2a7cbe62b3c11e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFire_3
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 232
+        width: 85
+        height: 109
+      alignment: 9
+      pivot: {x: 0.87, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51a532e5b3b97d43835f40a9389853a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFire_4
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 240
+        width: 105
+        height: 88
+      alignment: 9
+      pivot: {x: 0.91, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaebb38c8467eac46b95e8767defb355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFire_5
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 240
+        width: 61
+        height: 76
+      alignment: 9
+      pivot: {x: 0.91, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3515f881df0e1af4aafc0989bba43562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedFire_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 116
+        width: 69
+        height: 84
+      alignment: 9
+      pivot: {x: 0.87, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869905afc575cfa4bab51c78e9ee5d49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedFire_2
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 118
+        width: 72
+        height: 82
+      alignment: 9
+      pivot: {x: 0.87, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aadd917b04b08245b3196f82eabe8c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedFire_3
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 110
+        width: 86
+        height: 107
+      alignment: 9
+      pivot: {x: 0.87, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dda34af845097346b41703838011105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedFire_4
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 118
+        width: 105
+        height: 86
+      alignment: 9
+      pivot: {x: 0.91, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121a97020f7794441b22110a6b0ac867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedFire_5
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 117
+        width: 60
+        height: 73
+      alignment: 9
+      pivot: {x: 0.91, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8535f0ba43f99284fab706709ef6a281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowFire_1
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 93
+        width: 69
+        height: 82
+      alignment: 9
+      pivot: {x: 0.87, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505c7a38d36c7864d8a4fd4206f824b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowFire_2
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 93
+        width: 70
+        height: 83
+      alignment: 9
+      pivot: {x: 0.87, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852119db68f851b49b69814ce9eccb13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowFire_3
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 84
+        width: 86
+        height: 108
+      alignment: 9
+      pivot: {x: 0.87, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a043cf8c1f52b94db1cc3dcf67e325b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowFire_4
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 93
+        width: 103
+        height: 87
+      alignment: 9
+      pivot: {x: 0.91, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd072d9bc96221c49bcb63af4993b226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowFire_5
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 93
+        width: 61
+        height: 75
+      alignment: 9
+      pivot: {x: 0.91, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1be263b9b508264287969d26b285798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3d3ac93c15c00d244b03019ca0fc64cd
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

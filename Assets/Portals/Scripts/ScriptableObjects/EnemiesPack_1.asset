@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f53b7689042c424086bd44602e66bfa, type: 3}
+  m_Name: EnemiesPack_1
+  m_EditorClassIdentifier: 
+  waves:
+  - respawnWave: 2
+    level: 1
+    groups:
+    - respawnGroup: 1
+      respawnCharacter: 0.5
+      enemyModel: {fileID: 11400000, guid: b68200f1d4e2b094a86edccd1af65a2a, type: 2}
+      count: 2
+    - respawnGroup: 1
+      respawnCharacter: 0.5
+      enemyModel: {fileID: 11400000, guid: bff1d89d0fdd5684ead5a8425dd71b18, type: 2}
+      count: 2
+  - respawnWave: 2
+    level: 2
+    groups:
+    - respawnGroup: 1
+      respawnCharacter: 0.5
+      enemyModel: {fileID: 11400000, guid: d331918829707084282d21a95ed461b4, type: 2}
+      count: 2
+    - respawnGroup: 1
+      respawnCharacter: 0.5
+      enemyModel: {fileID: 11400000, guid: b68200f1d4e2b094a86edccd1af65a2a, type: 2}
+      count: 2

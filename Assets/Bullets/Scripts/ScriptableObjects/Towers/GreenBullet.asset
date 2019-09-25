@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e935a241ab29764bb1a81c3f358b72c, type: 3}
+  m_Name: GreenBullet
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 7164733151982524008, guid: 0e03e7ee7a910b34f9f334841746733c, type: 3}
+  sprate: {fileID: 21300040, guid: a62549d18627b904e8f55c79b389353e, type: 3}
+  power: 2
+  speed: 1

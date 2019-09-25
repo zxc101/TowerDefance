@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9762be4d4c1e449498e32647ea65adb5, type: 3}
+  m_Name: BlueCrystal
+  m_EditorClassIdentifier: 
+  spriteOn: {fileID: 21300004, guid: a62549d18627b904e8f55c79b389353e, type: 3}
+  spriteOff: {fileID: 21300020, guid: a62549d18627b904e8f55c79b389353e, type: 3}
+  color: 1
+  bullet: {fileID: 11400000, guid: a9ab4cd070b3d6547980cf8d4c9046c9, type: 2}
+  firingSpeed: 0.5

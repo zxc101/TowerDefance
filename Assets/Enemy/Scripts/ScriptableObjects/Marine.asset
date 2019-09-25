@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02e93456c3edc8e4eb290fd02f37569e, type: 3}
+  m_Name: Marine
+  m_EditorClassIdentifier: 
+  name: 0
+  prefab: {fileID: 7000451189426133817, guid: 187b805ef55a8374d925c553f4366f2d, type: 3}
+  animController: {fileID: 9100000, guid: 611cdf1c92693b047a0f6d8fa4249fc5, type: 2}
+  HP: 100
+  speed: 3
+  power: 10
+  procentsDamage:
+  - color: 1
+    procent: 0.1
+  - color: 2
+    procent: 0.2
+  - color: 3
+    procent: 0.3
+  - color: 4
+    procent: 0.4
+  - color: 5
+    procent: 0.5
+  - color: 6
+    procent: 0.6
+  - color: 7
+    procent: 0.7
+  - color: 8
+    procent: 0.8
